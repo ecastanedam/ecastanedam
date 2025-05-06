@@ -14,7 +14,7 @@ You can also find some of my projects below:
 * [Memory Card Game](https://github.com/ecastanedam/project-memory-card-game) - My first web development project: a classic memory card game built with HTML, CSS, and JavaScript.
 * [Ironpages Frontend](https://github.com/refinejcode49/front-end-project2) - The React-based front-end for Ironpages, a book library application.
 * [Ironpages Backend](https://github.com/ecastanedam/json-server-backend) - The backend for the Ironpages application, utilizing JSON Server.
-* [Irontrip Frontend](https://github.com/CannyRo/irontrip-frontend/tree/main) - The React-based front-end for my final Ironhack travel application.
+* [Irontrip Frontend](https://github.com/CannyRo/irontrip-frontend/tree/main) - The React-based front-end for my final Irontrip travel application.
 * [Irontrip Backend](https://github.com/ecastanedam/irontrip-backend) - The Node.js and Express backend for the Irontrip application.
 
 ---
