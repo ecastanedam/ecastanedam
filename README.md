@@ -11,16 +11,16 @@ I'm Enrique Castañeda, a customer support professional with over 13 years of ex
 
 You can also find some of my projects below:
 
-### First Project
-* **Memory Card Game** - A classic game built with HTML, CSS, and JavaScript.
+### Memory Card Game
+* [Memory Card Game](https://github.com/ecastanedam/project-memory-card-game) - My first web development project, a classic memory card game built to practice core HTML, CSS, and JavaScript concepts.
 
-### Second Project - Ironpages
-* **Ironpages Frontend** - The React-based front-end for a book library application.
-* **Ironpages Backend** - The backend for the Ironpages application, utilizing JSON Server.
+### Ironpages - Book Library App 
+* [Ironpages Frontend](https://github.com/refinejcode49/front-end-project2) - The React-based front-end for Ironpages, my second project during the bootcamp, allowing users to browse and manage a book library.
+* [Ironpages Backend](https://github.com/ecastanedam/json-server-backend) - Backend API for the Ironpages book library application, utilizing JSON Server for data management.
 
-### Final Project - Irontrip
-* **Irontrip Frontend** - The React-based front-end for a travel application.
-* **Irontrip Backend** - The Node.js and Express backend for the application.
+### Irontrip - Travel Application 
+* [Irontrip Frontend](https://github.com/CannyRo/irontrip-frontend/tree/main) - The React-based front-end for Irontrip, my final bootcamp project, designed for users to connect and plan trips.
+* [Irontrip Backend](https://github.com/ecastanedam/irontrip-backend) - The Node.js and Express backend for the Irontrip application, handling API endpoints for travel data.
 
 ---
 
